@@ -34,11 +34,19 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notjiaqian1323&show_icons=true&locale=en&layout=compact" alt="notjiaqian1323" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notjiaqian1323&show_icons=true&locale=en" alt="notjiaqian1323" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notjiaqian1323&" alt="notjiaqian1323" /></p>
+<div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=notjiaqian1323&show_icons=true&theme=github_dark" alt="mewhacks's github stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/username=notjiaqian1323&layout=compact&theme=prussian" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/username=notjiaqian1323&theme=prussian" alt="Streak Stats" />
+</div>
 
 
 
