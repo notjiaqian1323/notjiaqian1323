@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/Jia Qian Wo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jia Qian Wo" height="30" width="40" /></a>
 <a href="https://instagram.com/jqqq_wo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jqqq_wo" height="30" width="40" /></a>
 <a href="https://hackerrank.com/https://www.hackerrank.com/profile/q12w15e2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/q12w15e2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/wojqw6r4z?from=explore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/wojqw6r4z?from=explore" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/wojqw6r4z?from=explore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/wojqw6r4z?from=explore" height="30" width="40" /></a>
 </p>
 
 ---
