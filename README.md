@@ -38,7 +38,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=notjiaqian1323&show_icons=true&theme=github_dark&hide=contribs,issues&hide_border=true" alt="mewhacks's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=notjiaqian1323&show_icons=true&theme=github_dark&hide=contribs,issues&hide_border=true" alt="Jia Qian's github stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notjiaqian1323&layout=donut&theme=github_dark&lang_count=10&hide_title=true&hide_border=true" alt="Top Languages" />
